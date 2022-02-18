@@ -7,3 +7,4 @@
 - All Protocols For Minecraft Bedrock 1.18.20.22-1.18.20.28 Previews
 - All Protocols For Minecraft Java April Fools Snapshots
 - All Protocols For Minecraft Java Combat Tests
+- All Protocols For Minecraft Java Experimental Snapshots Up To Deep Dark Experimental Snapshot 1
