@@ -9,3 +9,4 @@
 - All Protocols For Minecraft Java Combat Tests
 - All Protocols For Minecraft Java Experimental Snapshots Up To Deep Dark Experimental Snapshot 1
 - All Protocols For Minecraft Java Pre-Releases From 1.16 Pre-1
+- The Only April Fools Snapshot Which Doesn't Use Netty Is 2.0 All Others Use Netty
