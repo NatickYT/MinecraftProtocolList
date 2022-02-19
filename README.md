@@ -8,3 +8,4 @@
 - All Protocols For Minecraft Java April Fools Snapshots
 - All Protocols For Minecraft Java Combat Tests
 - All Protocols For Minecraft Java Experimental Snapshots Up To Deep Dark Experimental Snapshot 1
+- All Protocols For Minecraft Java Pre-Releases
